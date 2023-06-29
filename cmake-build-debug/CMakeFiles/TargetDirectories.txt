@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/faculta/an 1 sem2/sda/Binary Search Trees/cmake-build-debug/CMakeFiles/Binary_Search_Trees.dir
+C:/Users/User/Desktop/faculta/an 1 sem2/sda/Binary Search Trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/faculta/an 1 sem2/sda/Binary Search Trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
